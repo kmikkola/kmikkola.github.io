@@ -23,16 +23,16 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 🟡 1. Sizes
 
-#Header one
-##Header two
-###Header three
-####Header four
-#####Header five
-######Header six
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
 
 🟡 2. Size + _italics_
 
-####Colombian Symbolism in _One Hundred Years of Solitude_
+#### Colombian Symbolism in _One Hundred Years of Solitude_
 
 Here's some words about the book _One Hundred Years..._.
 
@@ -50,7 +50,7 @@ Here's some words about the book _One Hundred Years..._.
 
 🟡 3. inline link in a size 4 header
 
-####The Latest News from [the BBC](www.bbc.com/news)
+#### The Latest News from [the BBC](www.bbc.com/news)
 
 🟡 4. reference link
 
